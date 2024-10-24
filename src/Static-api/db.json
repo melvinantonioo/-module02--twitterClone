@@ -1,0 +1,35 @@
+{
+  "tweets": [
+    {
+      "id": "1",
+      "content": "haloo ini tweet pertama",
+      "userId": "janejane",
+      "createdAt": "01-10-2023"
+    },
+    {
+      "id": "1728212140669",
+      "content": "hello , this is the first tweet in this app ",
+      "userId": null,
+      "createdAt": "2024-10-06T10:55:40.669Z"
+    },
+    {
+      "id": "1728212161455",
+      "content": "tweet kedua ",
+      "userId": null,
+      "createdAt": "2024-10-06T10:56:01.455Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "John_Doe",
+      "email": "john@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "129b",
+      "username": "janejane",
+      "password": "jane123456@"
+    }
+  ]
+}
